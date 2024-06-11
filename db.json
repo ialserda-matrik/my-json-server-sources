@@ -1,0 +1,52 @@
+{
+  "subscriptions": [
+    {
+      "title": "Spotify",
+      "content": "+180.1% from last month",
+      "price": 10,
+      "recurring": true,
+      "date": "2024-01-01",
+      "type": 1
+    },
+    {
+      "title": "Netflix",
+      "content": "+180.1% from last month",
+      "price": 10,
+      "recurring": true,
+      "date": "2024-01-01",
+      "type": 1
+    },
+    {
+      "title": "F1 TV Pro",
+      "content": "+180.1% from last month",
+      "price": 10,
+      "recurring": true,
+      "date": "2024-01-01",
+      "type": 1
+    },
+    {
+      "title": "Rode kruis",
+      "content": "+180.1% from last month",
+      "price": 10,
+      "recurring": true,
+      "date": "2024-01-01",
+      "type": 2
+    },
+    {
+      "title": "Artsen zonder grenzen",
+      "content": "+180.1% from last month",
+      "price": 10,
+      "recurring": true,
+      "date": "2024-01-01",
+      "type": 2
+    },
+    {
+      "title": "Reumafonds",
+      "content": "+180.1% from last month",
+      "price": 10,
+      "recurring": true,
+      "date": "2024-01-01",
+      "type": 2
+    }
+  ]
+}
