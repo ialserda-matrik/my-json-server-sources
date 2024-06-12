@@ -1,52 +1,58 @@
 {
   "subscriptions": [
     {
-      "title": "Spotify",
-      "content": "+180.1% from last month",
-      "price": 10,
+      "id": 1,
+      "name": "Spotify",
+      "price": 9.99,
       "recurring": true,
-      "date": "2024-01-01",
+      "date": "01-01-2022",
+      "duration": 12,
       "type": 1
     },
     {
-      "title": "Netflix",
-      "content": "+180.1% from last month",
-      "price": 10,
+      "id": 2,
+      "name": "Netflix",
+      "price": 13.99,
       "recurring": true,
-      "date": "2024-01-01",
+      "date": "01-01-2022",
+      "duration": 12,
       "type": 1
     },
     {
-      "title": "F1 TV Pro",
-      "content": "+180.1% from last month",
-      "price": 10,
+      "id": 3,
+      "name": "Disney+",
+      "price": 8.99,
       "recurring": true,
-      "date": "2024-01-01",
+      "date": "01-01-2022",
+      "duration": 12,
       "type": 1
     },
     {
-      "title": "Rode kruis",
-      "content": "+180.1% from last month",
-      "price": 10,
+      "id": 4,
+      "name": "Rode kruis",
+      "price": 9.99,
       "recurring": true,
-      "date": "2024-01-01",
-      "type": 2
+      "date": "01-01-2022",
+      "duration": 12,
+      "type": 1
     },
     {
-      "title": "Artsen zonder grenzen",
-      "content": "+180.1% from last month",
-      "price": 10,
+      "id": 5,
+      "name": "Artsen zonder grenzen",
+      "price": 13.99,
       "recurring": true,
-      "date": "2024-01-01",
-      "type": 2
+      "date": "01-01-2022",
+      "duration": 12,
+      "type": 1
     },
     {
-      "title": "Reumafonds",
-      "content": "+180.1% from last month",
-      "price": 10,
+      "id": 6,
+      "name": "Greenpeace",
+      "price": 8.99,
       "recurring": true,
-      "date": "2024-01-01",
-      "type": 2
+      "date": "01-01-2022",
+      "duration": 12,
+      "type": 1
     }
   ]
 }
