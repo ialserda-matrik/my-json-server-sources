@@ -3,55 +3,61 @@
     {
       "id": 1,
       "name": "Spotify",
+      "description": "Music streaming service",
       "price": 9.99,
       "recurring": true,
-      "date": "01-01-2022",
-      "duration": 12,
+      "recuring_date": "01-01-2022",
+      "period_of_notice": 365,
       "type": 1
     },
     {
       "id": 2,
       "name": "Netflix",
+      "description": "Video streaming service",
       "price": 13.99,
       "recurring": true,
-      "date": "01-01-2022",
-      "duration": 12,
+      "recuring_date": "01-01-2022",
+      "period_of_notice": 365,
       "type": 1
     },
     {
       "id": 3,
       "name": "Disney+",
+      "description": "Video streaming service",
       "price": 8.99,
       "recurring": true,
-      "date": "01-01-2022",
-      "duration": 12,
+      "recuring_date": "01-01-2022",
+      "period_of_notice": 365,
       "type": 1
     },
     {
       "id": 4,
       "name": "Rode kruis",
+      "description": "Charity organization",
       "price": 9.99,
       "recurring": true,
-      "date": "01-01-2022",
-      "duration": 12,
+      "recuring_date": "01-01-2022",
+      "period_of_notice": 365,
       "type": 1
     },
     {
       "id": 5,
       "name": "Artsen zonder grenzen",
+      "description": "Charity organization",
       "price": 13.99,
       "recurring": true,
-      "date": "01-01-2022",
-      "duration": 12,
+      "recuring_date": "01-01-2022",
+      "period_of_notice": 365,
       "type": 1
     },
     {
       "id": 6,
       "name": "Greenpeace",
+      "description": "Charity organization",
       "price": 8.99,
       "recurring": true,
-      "date": "01-01-2022",
-      "duration": 12,
+      "recuring_date": "01-01-2022",
+      "period_of_notice": 365,
       "type": 1
     }
   ]
