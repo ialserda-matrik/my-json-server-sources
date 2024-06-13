@@ -8,6 +8,7 @@
       "recurring": true,
       "recuring_date": "01-01-2022",
       "period_of_notice": 365,
+      "sharing": true,
       "type": 1
     },
     {
@@ -18,6 +19,7 @@
       "recurring": true,
       "recuring_date": "01-01-2022",
       "period_of_notice": 365,
+      "sharing": true,
       "type": 1
     },
     {
@@ -28,6 +30,7 @@
       "recurring": true,
       "recuring_date": "01-01-2022",
       "period_of_notice": 365,
+      "sharing": false,
       "type": 1
     },
     {
@@ -38,6 +41,7 @@
       "recurring": true,
       "recuring_date": "01-01-2022",
       "period_of_notice": 365,
+      "sharing": true,
       "type": 1
     },
     {
@@ -48,6 +52,7 @@
       "recurring": true,
       "recuring_date": "01-01-2022",
       "period_of_notice": 365,
+      "sharing": false,
       "type": 1
     },
     {
@@ -58,6 +63,7 @@
       "recurring": true,
       "recuring_date": "01-01-2022",
       "period_of_notice": 365,
+      "sharing": true,
       "type": 1
     }
   ]
