@@ -4,67 +4,101 @@
       "id": 1,
       "name": "Spotify",
       "description": "Music streaming service",
-      "price": 9.99,
+      "year_price": 180,
+      "start_date": "01-01-2021",
       "recurring": true,
-      "recuring_date": "01-01-2022",
-      "period_of_notice": 365,
-      "sharing": true,
-      "type": 1
+      "recuring_payment_date": "01-01-2022",
+      "notice_period_days": 365,
+      "shared": true,
+      "subscription_type_id": 1
     },
     {
       "id": 2,
       "name": "Netflix",
       "description": "Video streaming service",
-      "price": 13.99,
+      "year_price": 13.99,
       "recurring": true,
-      "recuring_date": "01-01-2022",
-      "period_of_notice": 365,
-      "sharing": true,
-      "type": 1
+      "recuring_payment_date": "01-01-2022",
+      "notice_period_days": 365,
+      "shared": true,
+      "subscription_type_id": 1
     },
     {
       "id": 3,
       "name": "Disney+",
       "description": "Video streaming service",
-      "price": 8.99,
+      "year_price": 8.99,
       "recurring": true,
-      "recuring_date": "01-01-2022",
-      "period_of_notice": 365,
-      "sharing": false,
-      "type": 1
+      "recuring_payment_date": "01-01-2022",
+      "notice_period_days": 365,
+      "shared": false,
+      "subscription_type_id": 1
     },
     {
       "id": 4,
       "name": "Rode kruis",
       "description": "Charity organization",
-      "price": 9.99,
+      "year_price": 9.99,
       "recurring": true,
-      "recuring_date": "01-01-2022",
-      "period_of_notice": 365,
-      "sharing": true,
-      "type": 1
+      "recuring_payment_date": "01-01-2022",
+      "notice_period_days": 365,
+      "shared": true,
+      "subscription_type_id": 2
     },
     {
       "id": 5,
       "name": "Artsen zonder grenzen",
       "description": "Charity organization",
-      "price": 13.99,
+      "year_price": 13.99,
       "recurring": true,
-      "recuring_date": "01-01-2022",
-      "period_of_notice": 365,
-      "sharing": false,
-      "type": 1
+      "recuring_payment_date": "01-01-2022",
+      "notice_period_days": 365,
+      "shared": false,
+      "subscription_type_id": 2
     },
     {
       "id": 6,
       "name": "Greenpeace",
       "description": "Charity organization",
-      "price": 8.99,
+      "year_price": 8.99,
       "recurring": true,
-      "recuring_date": "01-01-2022",
-      "period_of_notice": 365,
+      "recuring_payment_date": "01-01-2022",
+      "notice_period_days": 365,
       "sharing": true,
-      "type": 1
+      "subscription_type_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Facebook",
+      "description": "Social media platform",
+      "year_price": 0,
+      "recurring": true,
+      "recuring_payment_date": "",
+      "notice_period_days": 0,
+      "shared": true,
+      "subscription_type_id": 3
+    },
+    {
+      "id": 8,
+      "name": "Instagram",
+      "description": "Social media platform",
+      "year_price": 0,
+      "recurring": true,
+      "recuring_payment_date": "",
+      "notice_period_days": 0,
+      "shared": false,
+      "subscription_type_id": 3
+    },
+    {
+      "id": 9,
+      "name": "Twitter",
+      "description": "Social media platform",
+      "year_price": 0,
+      "recurring": true,
+      "recuring_payment_date": "",
+      "notice_period_days": 0,
+      "sharing": true,
+      "subscription_type_id": 3
     }
   ],
   "users": [
